@@ -1,0 +1,4 @@
+zone "computeria.local" {
+  type master;
+  file "/etc/bind/db.computeria.local"; #<-- zona
+};
