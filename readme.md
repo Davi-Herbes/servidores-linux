@@ -9,3 +9,12 @@
 - samba
 - ftp
 - ssh
+
+## Referências
+
+- [dchp](https://www.isc.org/dhcp/)
+- [dns](https://bind9.readthedocs.io/en/latest/)
+- [apache](https://httpd.apache.org/docs/)
+- [samba](https://www.samba.org/samba/docs/)
+- [vsftp](https://security.appspot.com/vsftpd.html)
+- [ssh](https://www.openssh.com/manual.html)
