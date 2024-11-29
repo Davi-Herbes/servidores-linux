@@ -31,4 +31,4 @@ ls -lah
 
 ## Agora, configure os virtual hosts para habilitar os sites
 
-[Configure os Sites](02-virtual_host.md)
+[Configure os Sites](02-virtual-host.md)
