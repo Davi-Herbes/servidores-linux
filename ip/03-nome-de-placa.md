@@ -4,5 +4,5 @@
 
 **ensX ou enoX** Interfaces Ethernet integradas à placa-mãe, onde o número X indica a ordem.
 
-[Voltar ao arquivo principal](01-conficuracao.md) | [Voltar ao início](/README.md)
+[Voltar ao arquivo principal](01-configuracao.md) | [Voltar ao início](/README.md)
 
