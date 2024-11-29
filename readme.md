@@ -14,13 +14,13 @@
 - [ftp](ftp/init.md)
 - [ssh](ssh/01-ssh.md)
 
+> **ℹ️** Partiremos do pressuposto de que o usuário terá as permissões de _super user_, no entanto o uso de sudo antes de determinados comandos pode se tornar obrigatório.
+
+> **ℹ️** Usaremos o nano como editor de texto, mas sinta-se à vontade para usar vim ou algum outro.
+
 | ⚠ Aviso                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | O relatório foi projetado para funcionar em servidores baseados em ubuntu (provavelmente sistemas derivados de Debian também funcionam), portanto não recomendamos as configurações para outros sistemas operacionais. |
-
-> **ℹ️** Partiremos do pressuposto de que o usuário terá as permissões de _super user_, no entanto o uso de sudo antes de determinados comandos pode se tornar obrigatório
-
-> **ℹ️** Usaremos o nano como editor de texto, mas sinta-se à vontade para usar vim ou algum outro
 
 ## Referências
 
