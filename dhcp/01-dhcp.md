@@ -44,7 +44,7 @@ mv dhcpd.conf dhcpd.conf.bk
 nano /etc/dhcp/dhcpd.conf
 ```
 
-### Coloque as configurações descritas em [02-dhcpd-example.conf](02-dhcpd-example.conf)
+### Coloque as configurações descritas em [02-dhcpd.conf](02-dhcpd.conf)
 
 ## Reiniciar serviço e checar
 
