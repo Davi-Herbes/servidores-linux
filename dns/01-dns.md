@@ -103,6 +103,8 @@ cp /etc/bind/db.local /etc/bind/db.minharede.local # Copiar arquivo padrão
 nano /etc/bind/db.minharede.local # Coloca as configuações do arquivo que txt que tá aqui no repositório
 ```
 
+Agora execute o comando para gerar zona
+
 ```bash
 named-checkzone minharede.local /etc/bind/db.minharede.local # É pra aparecer OK
 ```
