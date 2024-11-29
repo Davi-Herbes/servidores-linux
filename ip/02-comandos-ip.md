@@ -29,3 +29,5 @@ ss # Mostra todas
 
 ss -lt # Mostra as abertas
 ```
+
+[Voltar ao arquivo principal](01-conficuracao.md) | [Voltar ao início](/README.md)
