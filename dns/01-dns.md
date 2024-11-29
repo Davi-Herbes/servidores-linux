@@ -96,7 +96,7 @@ systemctl status bind9
 
 ## Criar zonas
 
-### Copie o seguinte arquivo para poder fazer as configurações descritas em [03-db.minharede.local](03-db.minharede.local)
+### Copie o arquivo `/etc/bind/db.local`, e na cópia faça as configurações descritas em [03-db.minharede.local](03-db.minharede.local)
 
 ```bash
 cp /etc/bind/db.local /etc/bind/db.minharede.local # Copiar arquivo padrão
