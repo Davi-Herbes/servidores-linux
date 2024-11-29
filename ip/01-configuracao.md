@@ -8,7 +8,7 @@ cd /etc/netplan/
 
 > ⚠ Caso não encontre, pode estar em `/etc/network/interfaces`, nesse caso, as configurações vão ser outras
 
-## Vai um arquivo parecido com: `01-netcfg.yaml`:
+## Terá um arquivo parecido com: `01-netcfg.yaml`:
 
 ```yaml
 network:
