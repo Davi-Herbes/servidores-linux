@@ -1,24 +1,28 @@
-# Relatórios de configuração de servidores linux
+# Relatórios de configuração de servidores linux com ubuntu
 
-### **Davi Matos, João Luft, Felipe Paz**
+## Davi Matos, João Luft, Felipe Paz - 2 TI - IFRS Campus Feliz
 
-# Ordem recomendada:
+### **Configurações disponíveis:**
 
-### Se você estiver configurando os serviços do zero, a ordem recomendada para você fazer as configurações com base na dificuldade de implementar o serviço e nas suas dependências é:
+### Recomendamos configurar os serviços na seguinte ordem:
 
-- [ip](ip/)
-- dchp
-- dns
-- apache
-- samba
-- ftp
-- ssh
+- [ip](ip/01-configuracao.md)
+- [dchp](dhcp/01-dhcp.md)
+- [dns](dns/01-dns.md)
+- [apache](apache/01-apache.md)
+- [samba](samba/01-samba-server.md)
+- [ftp](ftp/init.md)
+- [ssh](ssh/01-ssh.md)
+
+| ⚠ Aviso                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O relatório foi projetado para funcionar em servidores baseados em ubuntu (provavelmente sistemas derivados de Debian também funcionam), portanto não recomendamos as configurações para outros sistemas operacionais. |
 
 ## Referências
 
-- [dchp](https://www.isc.org/dhcp/)
-- [dns](https://bind9.readthedocs.io/en/latest/)
-- [apache](https://httpd.apache.org/docs/)
-- [samba](https://www.samba.org/samba/docs/)
-- [vsftp](https://security.appspot.com/vsftpd.html)
-- [ssh](https://www.openssh.com/manual.html)
+- **DHCP:** https://www.isc.org/dhcp/
+- **DNS:** https://bind9.readthedocs.io/en/latest/
+- **Apache:** https://httpd.apache.org/docs/
+- **Samba:** https://www.samba.org/samba/docs/
+- **VSFTP:** https://security.appspot.com/vsftpd.html
+- **SSH:** https://www.openssh.com/manual.html

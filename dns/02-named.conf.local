@@ -1,0 +1,4 @@
+zone "minharede.local" {
+  type master;
+  file "/etc/bind/db.minharede.local"; # Arquivo que será criado
+};

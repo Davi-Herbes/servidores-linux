@@ -1,4 +1,4 @@
-# Relatório: Configuração de um Servidor FTP no Lubuntu
+# Configuração de um Servidor FTP no Lubuntu
 
 Este relatório descreve o processo de configuração de um servidor FTP no Lubuntu, utilizando o `vsftpd` (Very Secure FTP Daemon), que é um dos servidores FTP mais seguros e confiáveis disponíveis.
 
@@ -74,3 +74,5 @@ Você pode verificar o status do `vsftpd` para garantir que ele está rodando co
 ```bash
 sudo systemctl status vsftpd
 ```
+
+## Voltar ao [início](/README.md)
