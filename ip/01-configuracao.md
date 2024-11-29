@@ -10,6 +10,10 @@ cd /etc/netplan/
 
 ## Terá um arquivo parecido com: `01-netcfg.yaml`:
 
+```bash
+nano 01-netcfg.yaml # Ou o que estiver ali
+```
+
 ```yaml
 network:
   version: 2
